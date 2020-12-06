@@ -6,10 +6,7 @@
 
     tools:context=".MainActivity">
 
-    <!--        android:layout_width="1728px"-->
-    <!--        android:layout_height="2304px"-->
-
-    <SurfaceView
+    <FrameLayout
         android:id="@+id/camera_preview"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
